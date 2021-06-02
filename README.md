@@ -1,6 +1,6 @@
 # FairBatch: Batch Selection for Model Fairness
 
-#### Authors: Yuji Roh, Kangwook Lee, Steven Euijong Whang, Changho Suh
+#### Authors: Yuji Roh, Kangwook Lee, Steven Euijong Whang, and Changho Suh
 #### In Proceedings of the 9th International Conference on Learning Representations (ICLR), 2021
 ----------------------------------------------------------------------
 
