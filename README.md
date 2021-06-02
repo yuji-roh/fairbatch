@@ -1,5 +1,8 @@
-# FairBatch
+# FairBatch: Batch Selection for Model Fairness
 
+#### Authors: Yuji Roh, Kangwook Lee, Steven Euijong Whang, Changho Suh
+#### In Proceedings of the 9th International Conference on Learning Representations (ICLR), 2021
+----------------------------------------------------------------------
 
 This directory is for simulating FairBatch on the synthetic dataset.
 The program needs PyTorch and Jupyter Notebook.
