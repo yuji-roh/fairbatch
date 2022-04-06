@@ -143,7 +143,9 @@ class FairBatch(Sampler):
         
         self.lb1 = (self.S[1,1])/(self.S[1,1]+(self.S[1,0]))
         self.lb2 = (self.S[-1,1])/(self.S[-1,1]+(self.S[-1,0]))
-    
+        
+        # Ensure the target with the same shape as the input.
+        self.y_data = self.y_data.reshape(-1,1)
     
     def adjust_lambda(self):
         """Adjusts the lambda values for FairBatch algorithm.
